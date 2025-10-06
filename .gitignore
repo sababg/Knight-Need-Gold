@@ -1,0 +1,16 @@
+# Godot-specific files
+.import/
+.godot/
+
+# Exported game builds
+export/
+build/
+*.exe
+*.apk
+*.zip
+*.tar.gz
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
